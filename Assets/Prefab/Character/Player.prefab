@@ -13,8 +13,11 @@ GameObject:
   - component: {fileID: 256776406}
   - component: {fileID: 256776405}
   - component: {fileID: 4893492}
+<<<<<<< HEAD
   - component: {fileID: 6462949628111119790}
   - component: {fileID: 357770407}
+=======
+>>>>>>> master
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -51,7 +54,7 @@ Rigidbody:
   serializedVersion: 2
   m_Mass: 12
   m_Drag: 0
-  m_AngularDrag: 0.4
+  m_AngularDrag: 0.05
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
@@ -83,6 +86,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81c9795a96c094f4cbde4d65546aa9b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   rigidBody: {fileID: 256776408}
   cam: {fileID: 627296776}
   movementSettings:
@@ -96,27 +100,46 @@ MonoBehaviour:
     FlyUp: 113
     FlyDown: 101
     JumpForce: 86
+=======
+  cam: {fileID: 627296776}
+  movementSettings:
+    ForwardSpeed: 12
+    BackwardSpeed: 6
+    StrafeSpeed: 8
+    RunMultiplier: 2
+    RunKey: 304
+    JumpForce: 80
+>>>>>>> master
     SlopeCurveModifier:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: -190.10294
-        value: 0.9930496
+        time: -90
+        value: 1
         inSlope: 0
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
       - serializedVersion: 3
-        time: 133.66159
-        value: 0.038208008
+        time: 0
+        value: 1
         inSlope: 0
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 90
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -134,9 +157,7 @@ MonoBehaviour:
     groundCheckDistance: 0.1
     stickToGroundHelperDistance: 0.6
     slowDownRate: 20
-    airControl: 1
-    canSprint: 0
-    canFly: 0
+    airControl: 0
     shellOffset: 0
 --- !u!114 &4893492
 MonoBehaviour:
@@ -151,6 +172,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   raycastOrigin: {fileID: 627296780}
+<<<<<<< HEAD
   maxRange: 4
 --- !u!114 &6462949628111119790
 MonoBehaviour:
@@ -179,6 +201,9 @@ MonoBehaviour:
   mainCamera: {fileID: 627296775}
   worldMapCamera: {fileID: 5794879020152948915}
   SwitchCameraView: 109
+=======
+  maxRange: 5
+>>>>>>> master
 --- !u!1 &627296775
 GameObject:
   m_ObjectHideFlags: 0
