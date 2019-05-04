@@ -15,9 +15,12 @@ GameObject:
   - component: {fileID: 4893492}
 <<<<<<< HEAD
   - component: {fileID: 6462949628111119790}
+<<<<<<< HEAD
   - component: {fileID: 357770407}
 =======
 >>>>>>> master
+=======
+>>>>>>> parent of 37ac226... World map Added
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -186,6 +189,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fec57afc1ae161458b899b58f63d0f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 --- !u!114 &357770407
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -204,6 +208,8 @@ MonoBehaviour:
 =======
   maxRange: 5
 >>>>>>> master
+=======
+>>>>>>> parent of 37ac226... World map Added
 --- !u!1 &627296775
 GameObject:
   m_ObjectHideFlags: 0
@@ -613,7 +619,7 @@ GameObject:
   - component: {fileID: 7605415468980375936}
   - component: {fileID: 1100749396422520714}
   m_Layer: 9
-  m_Name: Worldmap Camera
+  m_Name: ' Worldmap Camera'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
