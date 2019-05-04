@@ -16,9 +16,12 @@ GameObject:
 <<<<<<< HEAD
   - component: {fileID: 6462949628111119790}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 357770407}
 =======
 >>>>>>> master
+=======
+>>>>>>> parent of 37ac226... World map Added
 =======
 >>>>>>> parent of 37ac226... World map Added
   m_Layer: 0
@@ -190,6 +193,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &357770407
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -208,6 +212,8 @@ MonoBehaviour:
 =======
   maxRange: 5
 >>>>>>> master
+=======
+>>>>>>> parent of 37ac226... World map Added
 =======
 >>>>>>> parent of 37ac226... World map Added
 --- !u!1 &627296775
