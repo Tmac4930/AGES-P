@@ -19,9 +19,12 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 357770407}
 =======
 >>>>>>> master
+=======
+>>>>>>> parent of 37ac226... World map Added
 =======
 >>>>>>> parent of 37ac226... World map Added
 =======
@@ -208,6 +211,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &357770407
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -226,6 +230,8 @@ MonoBehaviour:
 =======
   maxRange: 5
 >>>>>>> master
+=======
+>>>>>>> parent of 37ac226... World map Added
 =======
 >>>>>>> parent of 37ac226... World map Added
 =======
