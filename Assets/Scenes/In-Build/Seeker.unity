@@ -26987,6 +26987,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
     - target: {fileID: 256776405, guid: 0b3285002722d7045a6cc5162196140a, type: 3}
       propertyPath: movementSettings.FlyKey
       value: 324
@@ -27007,6 +27008,8 @@ PrefabInstance:
       propertyPath: movementSettings.FlyMultiplier
       value: 6
       objectReference: {fileID: 0}
+=======
+>>>>>>> parent of 37ac226... World map Added
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0b3285002722d7045a6cc5162196140a, type: 3}
 --- !u!1 &1921590222 stripped

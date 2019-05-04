@@ -115,6 +115,7 @@ NavMeshSettings:
 <<<<<<< HEAD:Assets/Scenes/Test Scenes/Gaia Test.unity
 <<<<<<< HEAD:Assets/Scenes/Test Scenes/Gaia Test.unity
 <<<<<<< HEAD:Assets/Scenes/Test Scenes/Gaia Test.unity
+<<<<<<< HEAD:Assets/Scenes/Test Scenes/Gaia Test.unity
 <<<<<<< HEAD:Assets/Scenes/Test Scenes/Inventory Test 1.unity
 --- !u!1001 &94114674
 PrefabInstance:
@@ -235,6 +236,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e56f3ce738a519f48ae58005859fde64, type: 3}
+=======
+>>>>>>> parent of 37ac226... World map Added:Assets/Scenes/Test Scenes/Inventory Test 1.unity
 =======
 >>>>>>> parent of 37ac226... World map Added:Assets/Scenes/Test Scenes/Inventory Test 1.unity
 =======
@@ -395,6 +398,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD:Assets/Scenes/Test Scenes/Gaia Test.unity
 <<<<<<< HEAD:Assets/Scenes/Test Scenes/Gaia Test.unity
 <<<<<<< HEAD:Assets/Scenes/Test Scenes/Gaia Test.unity
 <<<<<<< HEAD:Assets/Scenes/Test Scenes/Gaia Test.unity
@@ -780,6 +784,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 37ac226... World map Added:Assets/Scenes/Test Scenes/Inventory Test 1.unity
 =======
 >>>>>>> parent of 37ac226... World map Added:Assets/Scenes/Test Scenes/Inventory Test 1.unity
 =======
